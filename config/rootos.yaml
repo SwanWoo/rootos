@@ -1,0 +1,39 @@
+root: ROOTOS
+
+structure:
+  - 00_Inbox
+  - 10_Action:
+      - Project
+      - Work
+      - Study
+      - Experiment
+      - Task
+  - 20_Knowledge:
+      - AI
+      - CS
+      - Math
+      - Finance
+      - Business
+      - Meta
+  - 30_Engineering:
+      - Code
+      - System
+      - Infra
+      - Data
+      - Model
+      - Security
+  - 40_Asset:
+      - Document
+      - Media
+      - Finance
+      - Identity
+      - IntellectualProperty
+  - 50_Business
+  - 90_Archive
+  - 99_System:
+      - Rules
+      - Templates
+      - Automation
+      - Config
+      - Backup
+      - Security
